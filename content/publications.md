@@ -26,6 +26,8 @@ Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).
 [<i class="ai ai-arxiv ai"></i> *arXiv:2401.01866*](https://arxiv.org/abs/2401.01866) 
 </sm>
 
+# Journal Publications
+
 [**Boosting the Power of Kernel Two-Sample Tests**](https://arxiv.org/abs/2302.10687)     
 Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).     
 <sm>
@@ -33,10 +35,9 @@ Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/
 [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)
 </sm>
 <sm>
-*(Revision requested at Biometrika)*
+*(To appear in Biometrika)*
 </sm>
 
-# Journal Publications
 
 [**Detecting Planted Partition in Sparse Multi-Layer Networks**](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402)     
 Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en).
