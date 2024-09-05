@@ -31,11 +31,11 @@ Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).
 [**Boosting the Power of Kernel Two-Sample Tests**](https://arxiv.org/abs/2302.10687)     
 Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).     
 <sm>
-[<i class="ai ai-arxiv ai"></i> *arXiv:2302.10687*](https://arxiv.org/abs/2302.10687) &nbsp;
-[<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)
+*(To appear in Biometrika)*
 </sm>
 <sm>
-*(To appear in Biometrika)*
+[<i class="ai ai-arxiv ai"></i> *arXiv:2302.10687*](https://arxiv.org/abs/2302.10687) &nbsp;
+[<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)
 </sm>
 
 
