@@ -31,7 +31,7 @@ Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).
 [**Boosting the Power of Kernel Two-Sample Tests**](https://arxiv.org/abs/2302.10687)     
 Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).     
 <sm>
-*(To appear in Biometrika)*
+*Biometrika (to appear)*
 </sm>
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2302.10687*](https://arxiv.org/abs/2302.10687) &nbsp;
