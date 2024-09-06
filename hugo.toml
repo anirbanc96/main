@@ -53,7 +53,7 @@ enableRobotsTXT = true
         body_font = "Source Sans Pro"
 
     [params.colors]
-        theme_color = "#d6eaf8"
+        theme_color = "#333333"
         background_color = "#fcfbf9"
         text_color = "#333333"
         link_color = "#17442a"
