@@ -1,37 +1,43 @@
 .landing-page-wrapper {
-    overflow: hidden; /* Contain floated elements */
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: visible;
 }
 
 .landing-page-content {
-    float: left;
-    width: 65%; /* Adjust width to allow for the image next to it */
-    vertical-align: top;
+    width: 64%; 
+    align-items: center;
+    display: inline-flex;
 }
 
 .landing-page-image {
-    float: right;
-    width: 30%; /* Set the width of the image container */
-    margin-left: 20px; /* Space between the image and the text */
-    margin-bottom: 20px; /* Space below the image to avoid text overlap */
+    align-items: center;
+    width: 30%; 
+    text-align: center;
+    padding: 0;
+    display: inline-flex;
 }
 
 .landing-page-image img {
-    width: 100%;
+    margin: 0;
     height: auto;
-    display: block; /* Ensure the image scales correctly */
+    width: 100%;
 }
 
+
 @media only screen and (max-width: 600px) {
+
     .landing-page-content {
-        float: none;
-        width: 100%; /* Stack content vertically */
+        width: 100%;
+        padding: 0;
         margin-bottom: 1em;
     }
 
     .landing-page-image {
-        float: none; /* Remove float on smaller screens */
-        width: 100%; /* Make image full width on small screens */
-        margin-left: 0; /* Remove margin for full-width layout */
-        margin-bottom: 0;
+        width: 100%;
+        margin: auto;
     }
+
 }
