@@ -13,4 +13,6 @@ I am Fifth Year Ph.D. student in the [Department of Statistics and Data Science]
 
 ## Education
 
-<i style="font-size:24px" class="fa">&#xf19d;</i>
+<i class="fa fa-graduation-cap"></i> PhD in Statistics, University of Pennsylvania, Expected Graduation: May 2025
+<br>
+<i class="fa fa-graduation-cap"></i> PhD in Statistics, University of Pennsylvania, Expected Graduation: May 2025
