@@ -12,8 +12,8 @@
     width: 30%; 
     text-align: center;
     padding: 0;
-    float: left; /* Float the image to the left, allowing text to flow around it */
-    margin-right: 20px; /* Add some space between the image and the text */
+    float: right; /* Float the image to the right, allowing text to flow around it */
+    margin-left: 20px; /* Add some space between the image and the text */
 }
 
 .landing-page-image img {
@@ -37,5 +37,6 @@
         width: 100%;
         float: none; /* Remove float on smaller screens to stack elements */
         margin: auto;
+        margin-left: 0; /* Remove left margin for centered layout on small screens */
     }
 }
