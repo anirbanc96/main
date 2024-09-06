@@ -1,42 +1,40 @@
 .landing-page-wrapper {
-    display: block; /* Use block to allow more flexibility with floating elements */
+    display: block; /* Allows for flexible content positioning */
 }
 
 .landing-page-content {
-    width: auto;
     display: inline-block;
-    vertical-align: top; /* Align the top of the content with the top of the image */
+    vertical-align: top;
+    width: calc(100% - 35%); /* Adjust width to ensure content and image fit within the parent container */
 }
 
 .landing-page-image {
-    width: 30%; 
-    text-align: center;
-    padding: 0;
-    float: right; /* Float the image to the right, allowing text to flow around it */
-    margin-left: 20px; /* Add some space between the image and the text */
-}
-
-.landing-page-image img {
-    margin: 0;
-    height: auto;
-    width: 100%;
-    display: block; /* Ensure the image scales correctly */
+    display: inline-block;
+    width: 30%; /* Set the width of the image container */
+    float: right; /* Float the image to the right */
+    margin-left: 20px; /* Space between the image and text */
+    margin-bottom: 20px; /* Space below the image to avoid text overlap */
     vertical-align: top; /* Align the top of the image with the top of the text */
 }
 
-@media only screen and (max-width: 600px) {
+.landing-page-image img {
+    width: 100%;
+    height: auto;
+    display: block; /* Ensure the image scales correctly */
+    vertical-align: top; /* Align the top of the image with the text */
+}
 
+@media only screen and (max-width: 600px) {
     .landing-page-content {
         width: 100%;
-        padding: 0;
+        display: block; /* Stack content vertically */
         margin-bottom: 1em;
-        display: block;
     }
 
     .landing-page-image {
         width: 100%;
-        float: none; /* Remove float on smaller screens to stack elements */
-        margin: auto;
-        margin-left: 0; /* Remove left margin for centered layout on small screens */
+        float: none; /* Remove float on smaller screens */
+        margin-left: 0; /* Remove margin for full-width layout */
+        margin-bottom: 0;
     }
 }
