@@ -13,7 +13,7 @@ I am Fifth Year Ph.D. student in the [Department of Statistics and Data Science]
 
 ## Research Interest
 
-The main themes of my research include inference in network models, kernel methods for non-parametric testing, and graphical models. In addition to this, I am also interested in various fields, including but not limited to random matrix theory and differential privacy. My current publications and preprints can be found [here.](https://anirbanc96.github.io/main/research/).
+The main themes of my research include inference in network models, kernel methods for non-parametric testing, and graphical models. In addition to this, I am also interested in various fields, including but not limited to random matrix theory and differential privacy. My current publications and preprints can be found [here.](https://anirbanc96.github.io/main/research/)
 
 
 
