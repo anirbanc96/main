@@ -13,6 +13,22 @@ I am Fifth Year Ph.D. student in the [Department of Statistics and Data Science]
 
 ## Education
 
-<i class="fa fa-graduation-cap"></i> PhD in Statistics, University of Pennsylvania, Expected Graduation: May 2025
-<br>
-<i class="fa fa-graduation-cap"></i> PhD in Statistics, University of Pennsylvania, Expected Graduation: May 2025
+<ul>
+  <li>
+    <i class="fa fa-graduation-cap"></i> PhD in Statistics
+    <br>
+    <small><i>Uiversity of Pennsylvania</i></small>
+  </li>
+  <li>
+    <i class="fa fa-graduation-cap"></i> Master of Statistics
+    <br>
+    <small><i>Indian Statistical Institute, Kolkata</i></small>
+  </li>
+  <li>
+    <i class="fa fa-graduation-cap"></i> Bachelor of Statistics
+    <br>
+    <small><i>Indian Statistical Institute, Kolkata</i></small>
+  </li>
+</ul>
+
+                                     
