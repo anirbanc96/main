@@ -1,39 +1,36 @@
 .landing-page-wrapper {
-    display: block; /* Allows for flexible content positioning */
+    overflow: hidden; /* Contain floated elements */
 }
 
 .landing-page-content {
-    display: inline-block;
+    float: left;
+    width: 65%; /* Adjust width to allow for the image next to it */
     vertical-align: top;
-    width: calc(100% - 35%); /* Adjust width to ensure content and image fit within the parent container */
 }
 
 .landing-page-image {
-    display: inline-block;
+    float: right;
     width: 30%; /* Set the width of the image container */
-    float: right; /* Float the image to the right */
-    margin-left: 20px; /* Space between the image and text */
+    margin-left: 20px; /* Space between the image and the text */
     margin-bottom: 20px; /* Space below the image to avoid text overlap */
-    vertical-align: top; /* Align the top of the image with the top of the text */
 }
 
 .landing-page-image img {
     width: 100%;
     height: auto;
     display: block; /* Ensure the image scales correctly */
-    vertical-align: top; /* Align the top of the image with the text */
 }
 
 @media only screen and (max-width: 600px) {
     .landing-page-content {
-        width: 100%;
-        display: block; /* Stack content vertically */
+        float: none;
+        width: 100%; /* Stack content vertically */
         margin-bottom: 1em;
     }
 
     .landing-page-image {
-        width: 100%;
         float: none; /* Remove float on smaller screens */
+        width: 100%; /* Make image full width on small screens */
         margin-left: 0; /* Remove margin for full-width layout */
         margin-bottom: 0;
     }
