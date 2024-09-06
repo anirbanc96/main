@@ -13,6 +13,4 @@ I am Fifth Year Ph.D. student in the [Department of Statistics and Data Science]
 
 ## Education
 
-<i class="fa fa-graduation-cap"></i>
-<i class="fa fa-graduation-cap"></i>
-<i class="fa fa-graduation-cap"></i>
+<i style="font-size:24px" class="fa">&#xf19d;</i>
