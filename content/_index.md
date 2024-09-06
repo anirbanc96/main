@@ -13,27 +13,28 @@ I am Fifth Year Ph.D. student in the [Department of Statistics and Data Science]
 
 ## Education
 
-<div style="font-size: 10pt; margin-left: 20px;">
+<div style="font-size: 20pt;">
   <span>
     <i class="fa fa-graduation-cap"></i> First point
     <br>
-    <small><i>Second line of first point</i></small>
+    <span style="font-size: 15pt;"><i>Second line of first point</i></span>
   </span>
 </div>
-<div style="font-size: 10pt; margin-left: 20px;">
+<div style="font-size: 20pt;">
   <span>
     <i class="fa fa-graduation-cap"></i> Second point
     <br>
-    <small><i>Second line of second point</i></small>
+    <span style="font-size: 15pt;"><i>Second line of second point</i></span>
   </span>
 </div>
-<div style="font-size: 10pt; margin-left: 20px;">
+<div style="font-size: 20pt;">
   <span>
     <i class="fa fa-graduation-cap"></i> Third point
     <br>
-    <small><i>Second line of third point</i></small>
+    <span style="font-size: 15pt;"><i>Second line of third point</i></span>
   </span>
 </div>
+
 
 
                                      
