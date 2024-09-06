@@ -56,7 +56,7 @@ enableRobotsTXT = true
         theme_color = "#333333"
         background_color = "#f9fbfc"
         text_color = "#333333"
-        link_color = "#17442a"
+        link_color = "#6088c1"
 
     [params.social]
         [params.social.email]
