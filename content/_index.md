@@ -7,5 +7,6 @@ sitemap:
   priority: 0.9
 
 ---
+## About Me
 
 I am Fifth Year Ph.D. student in the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/) working under the supervision of [Prof. Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/). Before joining here, I recieved my Bachelor and Master degrees in Statistics at the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/).
