@@ -13,22 +13,27 @@ I am Fifth Year Ph.D. student in the [Department of Statistics and Data Science]
 
 ## Education
 
-<ul>
-  <li>
-    <i class="fa fa-graduation-cap"></i> PhD in Statistics
+<div style="font-size: 10pt; margin-left: 20px;">
+  <span>
+    <i class="fa fa-graduation-cap"></i> First point
     <br>
-    <small><i>Uiversity of Pennsylvania</i></small>
-  </li>
-  <li>
-    <i class="fa fa-graduation-cap"></i> Master of Statistics
+    <small><i>Second line of first point</i></small>
+  </span>
+</div>
+<div style="font-size: 10pt; margin-left: 20px;">
+  <span>
+    <i class="fa fa-graduation-cap"></i> Second point
     <br>
-    <small><i>Indian Statistical Institute, Kolkata</i></small>
-  </li>
-  <li>
-    <i class="fa fa-graduation-cap"></i> Bachelor of Statistics
+    <small><i>Second line of second point</i></small>
+  </span>
+</div>
+<div style="font-size: 10pt; margin-left: 20px;">
+  <span>
+    <i class="fa fa-graduation-cap"></i> Third point
     <br>
-    <small><i>Indian Statistical Institute, Kolkata</i></small>
-  </li>
-</ul>
+    <small><i>Second line of third point</i></small>
+  </span>
+</div>
+
 
                                      
