@@ -1,6 +1,4 @@
-
 main {
-
 	text-align: left;
 	width: 100%;
 	padding-top: 25px;
@@ -19,11 +17,10 @@ main {
         text-decoration-color: $link-color;
     }
 
-
     figure {
-        display: block;
-        width: 90%;
-        margin: 2em auto;
+        float: left; /* or float: right; if you want the figure on the right side */
+        width: 45%;  /* Adjust width to allow space for text to flow beside */
+        margin: 1em; /* Adds space around the figure */
         text-align: center;
     }
 
@@ -55,7 +52,6 @@ main {
     .center {
         text-align: center;
     }
-
 }
 
 main > :first-child { margin-top: 0 !important; }
