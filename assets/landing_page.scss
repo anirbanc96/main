@@ -8,7 +8,7 @@
 .landing-page-content {
     width: 64%; 
     align-items: center;
-    display: inline-flex;
+    display: flex;
 }
 
 .landing-page-image {
@@ -16,7 +16,7 @@
     width: 30%; 
     text-align: center;
     padding: 0;
-    display: inline-flex;
+    display: flex;
 }
 
 .landing-page-image img {
