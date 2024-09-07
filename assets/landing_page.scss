@@ -1,27 +1,24 @@
 .landing-page-wrapper {
-    display: flex; 
-    flex-direction: row; /* Default is side-by-side */
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-wrap: wrap; /* Allows content to wrap below the image */
+    display: flex;
+    flex-wrap: wrap; /* Allows the text to wrap below the image */
+    align-items: flex-start; /* Align items to the start of the flex container */
 }
 
 .landing-page-image {
-    width: auto; /* Allow the image container to size based on the image */
-    flex-shrink: 0; /* Prevent the image from shrinking */
-    padding: 0;
+    flex: 0 0 auto; /* Prevent the image from resizing */
+    width: 300px; /* Set a fixed width for the image */
+    max-width: 100%; /* Ensure the image doesn't exceed its container's width */
     text-align: center;
+    margin-right: 20px; /* Space between image and text */
 }
 
 .landing-page-image img {
     width: 100%;
     height: auto;
-    max-width: 300px; /* Set a maximum width for the image */
 }
 
 .landing-page-content {
-    flex: 1; /* Allow content to take up remaining space */
-    margin-left: 20px; /* Add some space between the image and the text */
+    flex: 1; /* Allow the content to take up the remaining space */
     text-align: left;
 }
 
