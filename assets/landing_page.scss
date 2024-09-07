@@ -1,17 +1,18 @@
 .landing-page-wrapper {
-    display: grid;
-    grid-template-columns: 60% 35%;
-    grid-gap: 5%;
-    align-items: start;
-    overflow: visible;
+    overflow: hidden;
 }
 
 .landing-page-content {
-    order: 1;
+    float: left;
+    width: 65%; /* Adjust the width to allow space for the image */
+    margin-right: 20px; /* Space between text and image */
 }
 
 .landing-page-image {
-    order: 2;
+    float: right;
+    width: 30%; /* Image width */
+    margin-left: 20px; /* Optional space on the left of the image */
+    margin-bottom: 20px; /* Space below the image */
 }
 
 .landing-page-image img {
@@ -20,6 +21,14 @@
     display: block;
     border-radius: 5px;
 }
+
+/* Clearfix hack to ensure container grows with floated content */
+.landing-page-wrapper::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 
 
 @media only screen and (max-width: 600px) {
