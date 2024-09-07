@@ -1,28 +1,28 @@
 .landing-page-wrapper {
-    display: flex; 
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-between;
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .landing-page-content {
-    width: 64%; 
-    align-items: center;
-    display: inline-flex;
+    width: 64%; 
+    align-items: center;
+    display: inline-flex;
 }
 
 .landing-page-image {
-    align-items: center;
-    width: 30%; 
-    text-align: center;
-    padding: 0;
-    display: inline-flex;
+    align-items: center;
+    width: 30%; 
+    text-align: center;
+    padding: 0;
+    display: inline-flex;
 }
 
 .landing-page-image img {
-    margin: 0;
-    height: auto;
-    width: 100%;
+    margin: 0;
+    height: auto;
+    width: 100%;
 }
 
 
