@@ -9,15 +9,18 @@ sitemap:
 <div class="landing-page-wrapper">
       <div class="top-content">
           <div class="landing-page-content">
-              <p>Your text content goes here. This will be beside the image. You can add more text or other elements here as needed.</p>
-              <p>Additional paragraph to see how the text wraps and aligns next to the image.</p>
+            <p>
+              I am a Fifth Year Ph.D. student in the <a href="https://statistics.wharton.upenn.edu/" target="_blank">Department of Statistics and Data Science</a> at the <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a> working under the supervision of <a href="http://www-stat.wharton.upenn.edu/~bhaswar/" target="_blank">Prof. Bhaswar B. Bhattacharya</a>. Before joining here, I received my Bachelor and Master degrees in Statistics at the <a href="https://www.isical.ac.in/" target="_blank">Indian Statistical Institute, Kolkata</a>.
+            </p>
           </div>
           <div class="landing-page-image">
               <img src="avatar.jpg" alt="Placeholder Image">
           </div>
       </div>
       <div class="bottom-content">
-          <p>This is the text box that appears below the text and image. It spans the full width of the container.</p>
+          <p>
+            The main themes of my research include inference in network models, kernel methods for non-parametric testing, graphical models, random matrix theory, and differential privacy. My current publications and preprints can be found <a href="https://anirbanc96.github.io/main/research/" target="_blank">here.</a>
+        </p>
       </div>
   </div>
 
