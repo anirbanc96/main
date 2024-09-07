@@ -7,11 +7,21 @@ sitemap:
   priority: 0.9
 
 ---
-I am Fifth Year Ph.D. student in the [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/) working under the supervision of [Prof. Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/). Before joining here, I recieved my Bachelor and Master degrees in Statistics at the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/).
+<div class="landing-page-wrapper">
+      <div class="top-content">
+          <div class="landing-page-content">
+              <p>Your text content goes here. This will be beside the image. You can add more text or other elements here as needed.</p>
+              <p>Additional paragraph to see how the text wraps and aligns next to the image.</p>
+          </div>
+          <div class="landing-page-image">
+              <img src="avatar.jpg" alt="Placeholder Image">
+          </div>
+      </div>
+      <div class="bottom-content">
+          <p>This is the text box that appears below the text and image. It spans the full width of the container.</p>
+      </div>
+  </div>
 
-## Research Interest
-
-The main themes of my research include inference in network models, kernel methods for non-parametric testing, graphical models, random matrix theory and differential privacy. My current publications and preprints can be found [here.](https://anirbanc96.github.io/main/research/)
 
 
 
