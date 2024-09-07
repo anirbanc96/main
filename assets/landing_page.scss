@@ -1,16 +1,28 @@
-.text-image-container {
-    display: flex;
-    align-items: flex-start;
+.landing-page-wrapper {
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
-.text {
-    margin-right: 15px;
-    flex: 1; /* Ensures the text takes up available space */
+.landing-page-content {
+    width: 64%; 
+    align-items: center;
+    display: inline-flex;
 }
 
-.image {
-    width: 300px;
-    /* You can also adjust the width as needed */
+.landing-page-image {
+    align-items: center;
+    width: 30%; 
+    text-align: center;
+    padding: 0;
+    display: inline-flex;
+}
+
+.landing-page-image img {
+    margin: 0;
+    height: auto;
+    width: 100%;
 }
 
 
