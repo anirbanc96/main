@@ -1,18 +1,18 @@
 .landing-page-wrapper {
   display: flex;
   flex-wrap: wrap;
-  flex-direction: column; /* Change to column layout */
+  flex-direction: row;
   justify-content: space-between;
 }
 
 .landing-page-content {
-  width: 100%; /* Adjust width to accommodate text below image */
+  width: 70%; /* Adjust width as needed */
   align-items: center;
   display: inline-flex;
 }
 
 .landing-page-image {
-  /* Remove or set width to 100% */
+  width: 30%;
   align-items: center;
   text-align: center;
   padding: 0;
@@ -26,7 +26,6 @@
 }
 
 @media only screen and (max-width: 600px) {
-  /* Media query remains the same */
   .landing-page-content {
     width: 100%;
     padding: 0;
