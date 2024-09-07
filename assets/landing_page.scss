@@ -1,17 +1,28 @@
+.landing-page-wrapper {
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
 
 .landing-page-content {
-
-	text-align: left;
-	width: 100%;
-	padding-top: 25px;
-    padding-bottom: 40px;
-    color: $text-color;
+    width: 64%; 
+    align-items: center;
+    display: inline-flex;
 }
+
 .landing-page-image {
-    display: block;
-    width: 90%;
-    margin: 2em auto;
-    text-align: center;
+    align-items: center;
+    width: 30%; 
+    text-align: center;
+    padding: 0;
+    display: inline-flex;
+}
+
+.landing-page-image img {
+    margin: 0;
+    height: auto;
+    width: 100%;
 }
 
 
