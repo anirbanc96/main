@@ -1,28 +1,27 @@
 .landing-page-wrapper {
-    display: flex; 
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-between;
+    display: block;
 }
 
 .landing-page-content {
-    width: 64%; 
-    align-items: center;
-    display: inline-flex;
+    width: auto;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .landing-page-image {
-    align-items: center;
     width: 30%; 
-    text-align: center;
+    float: left;
+    margin-right: 1em;
     padding: 0;
-    display: inline-flex;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
 }
 
 .landing-page-image img {
-    margin: 0;
-    height: auto;
     width: 100%;
+    height: auto;
+    margin: 0;
 }
 
 
