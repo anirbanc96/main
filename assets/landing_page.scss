@@ -1,39 +1,26 @@
 .landing-page-wrapper {
-    display: flex;
-    flex-wrap: wrap; /* Allows the text to wrap below the image */
-    align-items: flex-start; /* Align items to the start of the flex container */
-}
-
-.landing-page-image {
-    flex: 0 0 auto; /* Prevent the image from resizing */
-    width: 300px; /* Set a fixed width for the image */
-    max-width: 100%; /* Ensure the image doesn't exceed its container's width */
-    text-align: center;
-    margin-right: 20px; /* Space between image and text */
-}
-
-.landing-page-image img {
-    width: 100%;
-    height: auto;
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .landing-page-content {
-    flex: 1; /* Allow the content to take up the remaining space */
-    text-align: left;
+    width: 64%; 
+    align-items: center;
+    display: inline-flex;
 }
 
+.landing-page-image {
+    align-items: center;
+    width: 30%; 
+    text-align: center;
+    padding: 0;
+    display: inline-flex;
+}
 
-@media only screen and (max-width: 600px) {
-
-    .landing-page-content {
-        width: 100%;
-        padding: 0;
-        margin-bottom: 1em;
-    }
-
-    .landing-page-image {
-        width: 100%;
-        margin: auto;
-    }
-
+.landing-page-image img {
+    margin: 0;
+    height: auto;
+    width: 100%;
 }
