@@ -4,8 +4,7 @@
 
 .landing-page-content {
     width: auto;
-    display: inline-block;
-    vertical-align: top;
+    display: block;
 }
 
 .landing-page-image {
@@ -13,8 +12,6 @@
     float: left;
     margin-right: 1em;
     padding: 0;
-    display: inline-block;
-    vertical-align: top;
     text-align: center;
 }
 
