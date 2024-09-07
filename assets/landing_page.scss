@@ -1,27 +1,53 @@
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+}
+
 .landing-page-wrapper {
-    display: block; /* Allows for flexible content positioning */
+    overflow: hidden;
 }
 
 .landing-page-content {
-    display: inline-block;
-    vertical-align: top;
-    width: calc(100% - 35%); /* Adjust width to ensure content and image fit within the parent container */
+    float: left;
+    width: 65%; /* Adjust the width to allow space for the image */
+    margin-right: 20px; /* Space between text and image */
 }
 
 .landing-page-image {
-    display: inline-block;
-    width: 30%; /* Set the width of the image container */
-    float: right; /* Float the image to the right */
-    margin-left: 20px; /* Space between the image and text */
-    margin-bottom: 20px; /* Space below the image to avoid text overlap */
-    vertical-align: top; /* Align the top of the image with the top of the text */
+    float: right;
+    width: 30%; /* Image width */
+    margin-left: 20px; /* Optional space on the left of the image */
+    margin-bottom: 20px; /* Space below the image */
 }
 
 .landing-page-image img {
     width: 100%;
     height: auto;
-    display: block; /* Ensure the image scales correctly */
-    vertical-align: top; /* Align the top of the image with the text */
+    display: block;
+    border-radius: 5px;
+}
+
+/* Clearfix hack to ensure container grows with floated content */
+.landing-page-wrapper::after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 @media only screen and (max-width: 600px) {
