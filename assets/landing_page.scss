@@ -1,18 +1,18 @@
-.landing-page-wrapper {
-    overflow: hidden; /* Contains the floated elements */
+landing-page-wrapper {
+    display: block;
+    overflow: hidden;
 }
 
 .landing-page-content {
     float: left;
-    width: calc(100% - 240px); /* Adjust based on image width + margin */
-    margin-right: 20px; /* Space between text and image */
+    width: calc(100% - 220px); /* Adjust this value based on the image width */
+    margin-right: 20px;
 }
 
 .landing-page-image {
     float: right;
-    width: 220px; /* Fixed width for the image */
-    margin-left: 20px;
-    margin-bottom: 20px; /* Optional space below the image */
+    width: 200px; /* Adjust the width as needed */
+    margin-bottom: 20px;
 }
 
 .landing-page-image img {
@@ -22,12 +22,6 @@
     border-radius: 5px;
 }
 
-/* Clearfix hack to ensure container grows with floated content */
-.landing-page-wrapper::after {
-    content: "";
-    display: table;
-    clear: both;
-}
 
 @media only screen and (max-width: 600px) {
     .landing-page-content {
