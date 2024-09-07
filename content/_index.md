@@ -18,6 +18,7 @@ sitemap:
           </div>
       </div>
       <div class="bottom-content">
+        <h2>Research Interest</h2>
           <p>
             The main themes of my research include inference in network models, kernel methods for non-parametric testing, graphical models, random matrix theory, and differential privacy. My current publications and preprints can be found <a href="https://anirbanc96.github.io/main/research/" target="_blank">here.</a>
         </p>
