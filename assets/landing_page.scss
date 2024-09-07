@@ -1,30 +1,40 @@
 .landing-page-wrapper {
-    overflow: hidden; /* Contains the floated elements */
+    display: block; /* Allows for flexible content positioning */
 }
 
 .landing-page-content {
-    float: left;
-    width: calc(100% - 240px); /* Adjust based on image width + margin */
-    margin-right: 20px; /* Space between text and image */
+    display: inline-block;
+    vertical-align: top;
+    width: calc(100% - 35%); /* Adjust width to ensure content and image fit within the parent container */
 }
 
 .landing-page-image {
-    float: right;
-    width: 220px; /* Fixed width for the image */
-    margin-left: 20px;
-    margin-bottom: 20px; /* Optional space below the image */
+    display: inline-block;
+    width: 30%; /* Set the width of the image container */
+    float: right; /* Float the image to the right */
+    margin-left: 20px; /* Space between the image and text */
+    margin-bottom: 20px; /* Space below the image to avoid text overlap */
+    vertical-align: top; /* Align the top of the image with the top of the text */
 }
 
 .landing-page-image img {
     width: 100%;
     height: auto;
-    display: block;
-    border-radius: 5px;
+    display: block; /* Ensure the image scales correctly */
+    vertical-align: top; /* Align the top of the image with the text */
 }
 
-/* Clearfix hack to ensure container grows with floated content */
-.landing-page-wrapper::after {
-    content: "";
-    display: table;
-    clear: both;
+@media only screen and (max-width: 600px) {
+    .landing-page-content {
+        width: 100%;
+        display: block; /* Stack content vertically */
+        margin-bottom: 1em;
+    }
+
+    .landing-page-image {
+        width: 100%;
+        float: none; /* Remove float on smaller screens */
+        margin-left: 0; /* Remove margin for full-width layout */
+        margin-bottom: 0;
+    }
 }
