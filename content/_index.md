@@ -1,6 +1,5 @@
 ---
 layout: landing_page
-image: avatar.jpg
 title: "Anirban Chatterjee"
 description: "Anirban Chatterjee's research homepage"
 sitemap:
