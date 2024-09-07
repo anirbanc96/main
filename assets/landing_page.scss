@@ -2,21 +2,20 @@
     display: flex; 
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: space-between;
 }
 
 .landing-page-content {
     width: 64%; 
-    align-items: center;
-    display: inline-flex;
+    vertical-align: top;
+    display: flex;
 }
 
 .landing-page-image {
-    align-items: center;
+    vertical-align: top;
     width: 30%; 
     text-align: center;
     padding: 0;
-    display: inline-flex;
+    display: flex;
 }
 
 .landing-page-image img {
