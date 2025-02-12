@@ -5,7 +5,7 @@ canonifyURLs = true
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
-#theme = "barks"
+theme = "barks"
 title = "Anirban Chatterjee"
 enableRobotsTXT = true
 
