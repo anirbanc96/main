@@ -1,3 +1,4 @@
+
 footer {
     width: 100%;
     text-align: center;
@@ -7,44 +8,31 @@ footer {
     font-size: small;
     color: $text-color;
 
-    // Existing icon styles
-    .fas,
-    .fab,
-    .ai {
+    .fas, .fab, .ai {
         font-size: large;
         transition: all .15s ease-in-out;
     }
 
-    .fas:hover,
-    .fab:hover,
-    .ai:hover {
+    .fas:hover, .fab:hover, .ai:hover {
         color: $link-color;
         transform: scale(1.5);
     }
 
-    // Add your new acknowledgment section here
-    .acknowledgment {
-        margin-top: 2em; // space it away from the main footer content
-        color: $text-color;
-        font-size: 0.9em; // or any size you prefer
-        font-style: italic; // optional style
-    }
 }
 
-// Existing link/list styling
 footer ul li a i {
     color: $text-color;
 }
 
 footer ul {
-    display: table;
-    margin: auto;
+	display: table;
+	margin: auto;
     padding: 0;
 }
 
 footer li {
-    list-style-type: none;
-    display: inline-block;
+	list-style-type: none;
+	display: inline-block;
     padding: 0px 10px;
 }
 
@@ -55,7 +43,7 @@ footer a {
     text-underline-offset: 3px;
 }
 
-footer a:hover {
+footer a:hover  {
     text-decoration-style: solid;
     text-decoration-color: $link-color;
 }
