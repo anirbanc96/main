@@ -63,6 +63,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4  # Use the latest version
         with:
+          name: github-pages
           path: ./public
 
   # Deployment job
