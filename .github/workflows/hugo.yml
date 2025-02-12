@@ -59,11 +59,10 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
-        uses: actions/upload-artifact@v4  # Use the latest version
+        uses: actions/upload-pages-artifact@v1
         with:
-          name: github-pages
           path: ./public
 
   # Deployment job
@@ -77,5 +76,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-        with:
-          artifact_name: github-pages
