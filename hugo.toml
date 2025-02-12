@@ -7,7 +7,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
 theme = "barks"
 title = "Anirban Chatterjee"
-copyright = "© 2025 Anirban Chatterjee. All rights reserved."
+copyright = "Powered by the <a href=\"https://github.com/timothygebhard/barks">Barks</a> theme for <a href=\"https://gohugo.io/">Hugo</a>."
 enableRobotsTXT = true
 
 # Main menu
