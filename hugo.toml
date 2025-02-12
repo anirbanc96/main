@@ -7,6 +7,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
 theme = "barks"
 title = "Anirban Chatterjee"
+copyright = "© 2025 Anirban Chatterjee. All rights reserved."
 enableRobotsTXT = true
 
 # Main menu
