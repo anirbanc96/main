@@ -4,15 +4,14 @@ hide_title: true
 slug: research
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 # Preprints
 
-**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)**     
+*[A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)](https://arxiv.org/abs/2407.16550)*     
 Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
-<sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2407.16550*](https://arxiv.org/abs/2407.16550) &nbsp;
 [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/ECMMD-CondTwoSamp)
-</sm>
 
 **Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference**     
 Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
