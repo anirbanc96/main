@@ -8,26 +8,21 @@ slug: research
 
 # Preprints
 
-<ul>
-<li>*[_A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)_](https://arxiv.org/abs/2407.16550)*
-<sm>
-Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
-[<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2407.16550) &nbsp;
-[<i class="fab fa-github"></i>](https://github.com/anirbanc96/ECMMD-CondTwoSamp)
-</sm></li>
+<span style="font-size: 1.2em; font-weight: bold;">*[A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)](https://arxiv.org/abs/2407.16550)*</span>  
+<span style="font-size: 1em;">Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>  
+[<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2407.16550) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/ECMMD-CondTwoSamp)
 
-<li>*_Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference_*     
+*_Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference_*     
 Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2404.13822*](https://arxiv.org/abs/2404.13822) 
-</sm></li>
+</sm>
 
-<li>*_Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs_*    
+*_Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs_*    
 Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2401.01866*](https://arxiv.org/abs/2401.01866) 
-</sm></li>
-</ul>
+</sm>
 
 # Journal Publications
 
