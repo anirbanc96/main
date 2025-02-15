@@ -10,8 +10,8 @@ slug: research
 
 <ul>
 <li>
-<sm>
 *[A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)](https://arxiv.org/abs/2407.16550)*
+<sm>
 Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).
 [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2407.16550) &nbsp;
 [<i class="fab fa-github"></i>](https://github.com/anirbanc96/ECMMD-CondTwoSamp)
