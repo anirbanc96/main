@@ -21,7 +21,7 @@ slug: research
 # Journal Publications
 
 <span style="font-size: 0.9em; font-weight: bold;">*[_Boosting the Power of Kernel Two-Sample Tests_](https://doi.org/10.1093/biomet/asae048)*</span>     
-<span style="font-size: 0.9em;">Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). [<i class="fa-solid fa-book"></i> *Biometrika*](https://doi.org/10.1093/biomet/asae048) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2302.10687) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)</span>
+<span style="font-size: 0.9em;">Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). *Biometrika*. [<i class="fa-solid fa-book"></i>](https://doi.org/10.1093/biomet/asae048) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2302.10687) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)</span>
 
 **Detecting Planted Partition in Sparse Multi-Layer Networks**     
 Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en).
