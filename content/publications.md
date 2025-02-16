@@ -35,7 +35,7 @@ slug: research
 # Conference Publications
  
 <span style="font-size: 0.9em; font-weight: bold;">*[_PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model._](https://proceedings.mlr.press/v238/chakraborty24a.html)*</span>     
-<span style="font-size: 0.9em;">[Abhinav Chakraborty](https://abhinavc3.github.io/), Anirban Chatterjee, [Abhinandan Dalal](https://statistics.wharton.upenn.edu/profile/abdalal/). *International Conference on Artificial Intelligence and Statistics 2024*. [<i class="fa-solid fa-book"></i>](https://proceedings.mlr.press/v238/chakraborty24a.html) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.16596) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/PrIsing)</span>
+<span class="author-info">[Abhinav Chakraborty](https://abhinavc3.github.io/), Anirban Chatterjee, [Abhinandan Dalal](https://statistics.wharton.upenn.edu/profile/abdalal/). *International Conference on Artificial Intelligence and Statistics 2024*. [<i class="fa-solid fa-book"></i>](https://proceedings.mlr.press/v238/chakraborty24a.html) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.16596) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/PrIsing)</span>
  
 <!-- Add a style tag with CSS to control the layout -->
 <style>
@@ -44,7 +44,18 @@ slug: research
     align-items: flex-start;
   }
   .text-container {
-    flex-grow: 1.5;
+    flex-grow: 1;
+  }
+
+  .article-title {
+    font-size: 0.9em;
+    font-weight: bold;
+    white-space: nowrap;
+  }
+
+  .author-info {
+    font-size: 0.9em;
+    white-space: nowrap;
   }
 
   .side-image {
