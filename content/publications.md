@@ -44,7 +44,7 @@ slug: research
     align-items: flex-start;
   }
   .text-container {
-    flex-grow: 1;
+    flex-grow: 1.5;
   }
 
   .side-image {
