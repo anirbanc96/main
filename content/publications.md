@@ -8,32 +8,20 @@ slug: research
 
 # Preprints
 
-<span style="font-size: 0.9em; font-weight: bold;"><i class="fa-solid fa-bookmark"></i>*[_A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)._](https://arxiv.org/abs/2407.16550)*</span>  
+<span style="font-size: 0.9em; font-weight: bold;">*[_A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)._](https://arxiv.org/abs/2407.16550)*</span>  
 <span style="font-size: 0.9em;">Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2407.16550) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/ECMMD-CondTwoSamp)</span>
 
 <span style="font-size: 0.9em; font-weight: bold;">*[_Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference._](https://arxiv.org/abs/2404.13822)*</span>     
-<span style="font-size: 0.9em;">Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html) [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2404.13822)</span>
+<span style="font-size: 0.9em;">Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2404.13822)</span>
 
 
-*_Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs_*    
-Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).
-<sm>
-[<i class="ai ai-arxiv ai"></i> *arXiv:2401.01866*](https://arxiv.org/abs/2401.01866) 
-</sm>
+<span style="font-size: 0.9em; font-weight: bold;">*[_Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs_](https://arxiv.org/abs/2401.01866)*</span>     
+<span style="font-size: 0.9em;">Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/). [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.01866)</span>
 
 # Journal Publications
 
-**Boosting the Power of Kernel Two-Sample Tests**     
-Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).     
-<sm>
-*Biometrika*
-</sm>
-<sm>
-[<i class="fa-solid fa-book"></i> *Biometrika*](https://doi.org/10.1093/biomet/asae048) &nbsp;
-[<i class="ai ai-arxiv ai"></i> *arXiv:2302.10687*](https://arxiv.org/abs/2302.10687) &nbsp;
-[<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)
-</sm>
-
+<span style="font-size: 0.9em; font-weight: bold;">*[_Boosting the Power of Kernel Two-Sample Tests_](https://doi.org/10.1093/biomet/asae048)*</span>     
+<span style="font-size: 0.9em;">Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). [<i class="fa-solid fa-book"></i> *Biometrika*](https://doi.org/10.1093/biomet/asae048) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2302.10687) &nbsp; [<i class="fab fa-github"></i> Github](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)</span>
 
 **Detecting Planted Partition in Sparse Multi-Layer Networks**     
 Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en).
