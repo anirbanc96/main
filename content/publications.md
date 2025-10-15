@@ -8,6 +8,12 @@ slug: research
 
 # Preprints
 
+<span style="font-size: 0.9em; font-weight: bold;">*[_A Martingale Kernel Two-Sample Test._](https://arxiv.org/abs/2510.11853)* [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2510.11853)</span>     
+<span style="font-size: 0.8em;">Anirban Chatterjee, [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/).</span>
+
+<span style="font-size: 0.9em; font-weight: bold;">*[_One-shot Conditional Sampling: MMD meets Nearest Neighbors._](https://arxiv.org/abs/2509.25507)* [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2509.25507)</span>     
+<span style="font-size: 0.8em;">Anirban Chatterjee, [Sayantan Choudhury](https://isayantan.github.io/), [Rohan Hore](https://rohanhore.github.io/).</span>
+
 <span style="font-size: 0.9em; font-weight: bold;">*[_A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)._](https://arxiv.org/abs/2407.16550)* [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2407.16550) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/ECMMD-CondTwoSamp)</span>  
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
 
