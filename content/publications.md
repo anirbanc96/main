@@ -20,11 +20,10 @@ slug: research
 <span style="font-size: 0.9em; font-weight: bold;">*[_Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference._](https://arxiv.org/abs/2404.13822)* [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2404.13822)</span>     
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
 
+# Journal Publications
 
 <span style="font-size: 0.9em; font-weight: bold;">*[_Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs._](https://arxiv.org/abs/2401.01866)* [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.01866)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/).</span>
-
-# Journal Publications
+<span style="font-size: 0.8em;">Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/). *To appear in Annals of Applied Probability*.</span>
 
 <span style="font-size: 0.9em; font-weight: bold;">*[_Boosting the Power of Kernel Two-Sample Tests._](https://doi.org/10.1093/biomet/asae048)* [<i class="fa-solid fa-book"></i>](https://doi.org/10.1093/biomet/asae048) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2302.10687) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)</span>     
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). *Biometrika*.</span>
