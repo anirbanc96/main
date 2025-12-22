@@ -8,6 +8,9 @@ slug: research
 
 # Preprints
 
+<span style="font-size: 0.9em; font-weight: bold;">*[_Asymptotic Normality of Subgraph Counts in Sparse Inhomogeneous Random Graphs._](https://arxiv.org/abs/2512.12937)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2512.12937)</span>     
+<span style="font-size: 0.8em;">[Sayak Chatterjee](https://scholar.google.com/citations?user=9ipxbQMAAAAJ&hl=en), Anirban Chatterjee, [Abhinav Chakraborty](https://abhinavc3.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
+
 <span style="font-size: 0.9em; font-weight: bold;">*[_A Martingale Kernel Two-Sample Test._](https://arxiv.org/abs/2510.11853)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2510.11853)</span>     
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/).</span>
 
