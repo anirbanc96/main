@@ -4,11 +4,12 @@ hide_title: true
 ---
 
 # Teaching Assistant
-[**STAT 432** - *Fall 2023* - University of Pennsylvania](https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/)
-<br>
-[**STAT 961** - *Fall 2022* - University of Pennsylvania](https://katsevich-teaching.github.io/stat-9610-fall-2022/)
-<br>
-[**STAT 432** - *Spring 2022* - University of Pennsylvania](https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/)
+*University of Pennsylvania*
+
+Fall 2023  [**STAT 432** – University of Pennsylvania](https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/)  
+Fall 2022  [**STAT 961** – University of Pennsylvania](https://katsevich-teaching.github.io/stat-9610-fall-2022/)  
+Spring 2022 [**STAT 432** – University of Pennsylvania](https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/)
+
 
 
 
