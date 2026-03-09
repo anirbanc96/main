@@ -4,20 +4,21 @@ hide_title: true
 ---
 
 # Teaching Assistant
-<p><strong>University of Pennsylvania</strong></p>
+## University of Pennsylvania
 
 <div style="display: flex; flex-direction: column; gap: 4px;">
   <div style="display: flex;">
     <span style="min-width: 120px;">Fall 2023</span>
-    <span><a href="#"><strong>STAT 432</strong></a>: Course Title Here</span>
+    <span><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 432</strong></a>: Mathematical Statistics</span>
   </div>
   <div style="display: flex;">
     <span style="min-width: 120px;">Fall 2022</span>
-    <span><a href="#"><strong>STAT 961</strong></a>: Course Title Here</span>
+    <span><a href="https://katsevich-teaching.github.io/stat-9610-fall-2022/"><strong>STAT 961</strong></a>: Statistical
+Methodology</span>
   </div>
   <div style="display: flex;">
     <span style="min-width: 120px;">Spring 2022</span>
-    <span><a href="#"><strong>STAT 432</strong></a>: Course Title Here</span>
+    <span><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 432</strong></a>: Mathematical Statistics</span>
   </div>
 </div>
 
