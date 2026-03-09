@@ -4,12 +4,25 @@ hide_title: true
 ---
 
 # Teaching Assistant
-| Term | Course | University |
-|:-----|:-------|:-----------|
-| Fall 2023 | [STAT 432](https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/) | University of Pennsylvania |
-| Fall 2022 | [STAT 961](https://katsevich-teaching.github.io/stat-9610-fall-2022/) | University of Pennsylvania |
-| Spring 2022 | [STAT 432](https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/) | University of Pennsylvania |
-
+<table style="border-collapse: collapse; border: none;">
+  <tbody>
+    <tr>
+      <td style="padding: 4px 40px 4px 0; white-space: nowrap; border: none;">Fall 2023</td>
+      <td style="padding: 4px 40px 4px 0; border: none;"><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 432</strong></a></td>
+      <td style="padding: 4px 0; border: none;">University of Pennsylvania</td>
+    </tr>
+    <tr>
+      <td style="padding: 4px 40px 4px 0; white-space: nowrap; border: none;">Fall 2022</td>
+      <td style="padding: 4px 40px 4px 0; border: none;"><a href="https://katsevich-teaching.github.io/stat-9610-fall-2022/"><strong>STAT 961</strong></a></td>
+      <td style="padding: 4px 0; border: none;">University of Pennsylvania</td>
+    </tr>
+    <tr>
+      <td style="padding: 4px 40px 4px 0; white-space: nowrap; border: none;">Spring 2022</td>
+      <td style="padding: 4px 40px 4px 0; border: none;"><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 432</strong></a></td>
+      <td style="padding: 4px 0; border: none;">University of Pennsylvania</td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- Add a style tag with CSS to control the layout -->
 <style>
