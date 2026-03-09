@@ -8,18 +8,15 @@ hide_title: true
   <tbody>
     <tr>
       <td style="padding: 4px 40px 4px 0; white-space: nowrap; border: none;">Fall 2023</td>
-      <td style="padding: 4px 40px 4px 0; border: none;"><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 432</strong></a></td>
-      <td style="padding: 4px 0; border: none;">University of Pennsylvania</td>
+      <td style="padding: 4px 0; border: none;"><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 432</strong></a>: University of Pennsylvania</td>
     </tr>
     <tr>
       <td style="padding: 4px 40px 4px 0; white-space: nowrap; border: none;">Fall 2022</td>
-      <td style="padding: 4px 40px 4px 0; border: none;"><a href="https://katsevich-teaching.github.io/stat-9610-fall-2022/"><strong>STAT 961</strong></a></td>
-      <td style="padding: 4px 0; border: none;">University of Pennsylvania</td>
+      <td style="padding: 4px 0; border: none;"><a href="https://katsevich-teaching.github.io/stat-9610-fall-2022/"><strong>STAT 961</strong></a>: University of Pennsylvania</td>
     </tr>
     <tr>
       <td style="padding: 4px 40px 4px 0; white-space: nowrap; border: none;">Spring 2022</td>
-      <td style="padding: 4px 40px 4px 0; border: none;"><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 432</strong></a></td>
-      <td style="padding: 4px 0; border: none;">University of Pennsylvania</td>
+      <td style="padding: 4px 0; border: none;"><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 432</strong></a>: University of Pennsylvania</td>
     </tr>
   </tbody>
 </table>
