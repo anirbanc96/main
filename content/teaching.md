@@ -3,6 +3,17 @@ title: "Teaching"
 hide_title: true
 ---
 
+# Instructor
+## University of Chicago
+
+<div style="display: flex; flex-direction: column; gap: 4px;">
+  <div style="display: flex;">
+    <span style="min-width: 120px;">Winter 2026</span>
+    <strong>STAT 37779</strong></a>: Kernel Methods for Statistics and Machine Learning</span>
+  </div>
+</div>
+
+
 # Teaching Assistant
 ## University of Pennsylvania
 
@@ -13,8 +24,7 @@ hide_title: true
   </div>
   <div style="display: flex;">
     <span style="min-width: 120px;">Fall 2022</span>
-    <span><a href="https://katsevich-teaching.github.io/stat-9610-fall-2022/"><strong>STAT 961</strong></a>: Statistical
-Methodology</span>
+    <span><a href="https://katsevich-teaching.github.io/stat-9610-fall-2022/"><strong>STAT 961</strong></a>: Statistical Methodology</span>
   </div>
   <div style="display: flex;">
     <span style="min-width: 120px;">Spring 2022</span>
