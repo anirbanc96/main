@@ -8,12 +8,12 @@ hide_title: true
 
 <div style="display: flex; flex-direction: column; gap: 4px;">
   <div style="display: flex;">
-    <span style="min-width: 120px;">Winter 2026</span>
-    <strong>STAT 37779</strong></a>: Kernel Methods for Statistics and Machine Learning</span>
-  </div>
-  <div style="display: flex;">
     <span style="min-width: 120px;">Spring 2026</span>
     <strong>STAT 20000</strong></a>: Elementary Statistics</span>
+  </div>
+  <div style="display: flex;">
+    <span style="min-width: 120px;">Winter 2026</span>
+    <strong>STAT 37779</strong></a>: Kernel Methods for Statistics and Machine Learning</span>
   </div>
 </div>
 
