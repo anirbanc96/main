@@ -35,10 +35,12 @@ jobs:
       # ⭐ FIXED STEP (replaces snap)
       - name: Install Dart Sass
         run: |
-          curl -L https://github.com/sass/dart-sass/releases/latest/download/dart-sass-linux-x64.tar.gz \
-            | tar -xz
+          SASS_VERSION=1.97.3
+          curl -L -o dart-sass.tar.gz \
+            https://github.com/sass/dart-sass/releases/download/${SASS_VERSION}/dart-sass-${SASS_VERSION}-linux-x64.tar.gz
+          tar -xzf dart-sass.tar.gz
           sudo mv dart-sass /usr/local/lib/dart-sass
-          sudo ln -s /usr/local/lib/dart-sass/sass /usr/local/bin/sass
+          sudo ln -sf /usr/local/lib/dart-sass/sass /usr/local/bin/sass
           sass --version
 
       - name: Checkout
