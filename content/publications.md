@@ -39,11 +39,11 @@ slug: research
 
 # Conference Publications
  
-<span style="font-size: 0.9em; font-weight: bold;">*[_A Martingale Kernel Two-Sample Test._](https://arxiv.org/abs/2510.11853)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2510.11853)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). *To appear in Proceedings of The 37th International Conference on Algorithmic Learning Theory (ALT), 2026* (<ins> Elegant Paper Badge </ins>).</span>
+<span style="font-size: 0.9em; font-weight: bold;">*[_A Martingale Kernel Two-Sample Test._](https://arxiv.org/abs/2510.11853)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2510.11853) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/mMMD)</span>     
+<span style="font-size: 0.8em;">Anirban Chatterjee, [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). *To appear in Proceedings of The 37th International Conference on Algorithmic Learning Theory (ALT) 2026* (<ins>Elegant Paper Badge</ins>).</span>
 
 <span style="font-size: 0.9em; font-weight: bold;">*[_PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model._](https://proceedings.mlr.press/v238/chakraborty24a.html)* &nbsp; [<i class="fa-solid fa-book"></i>](https://proceedings.mlr.press/v238/chakraborty24a.html) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.16596) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/PrIsing)</span>     
-<span style="font-size: 0.8em;">[Abhinav Chakraborty](https://abhinavc3.github.io/), Anirban Chatterjee, [Abhinandan Dalal](https://abhinandan-dalal.github.io/website/). *International Conference on Artificial Intelligence and Statistics 2024*.</span>
+<span style="font-size: 0.8em;">[Abhinav Chakraborty](https://abhinavc3.github.io/), Anirban Chatterjee, [Abhinandan Dalal](https://abhinandan-dalal.github.io/website/). *International Conference on Artificial Intelligence and Statistics (AISTATS) 2024*.</span>
  
 <!-- Add a style tag with CSS to control the layout -->
 <style>
