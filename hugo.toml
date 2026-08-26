@@ -49,15 +49,14 @@ enableRobotsTXT = true
         show_footer = true
 
     [params.typography]
-#        title_font = "Urbanist"
-        title_font = "Cutive Mono"
-        body_font = "Source Sans Pro"
+        title_font = "Libre Baskerville"
+        body_font = "EB Garamond"
 
     [params.colors]
         theme_color = "#333333"
-        background_color = "#fcfbf9"
+        background_color = "#f9fbfc"
         text_color = "#333333"
-        link_color = "#0244ad"
+        link_color = "#006aff"
 
     [params.social]
         [params.social.email]
