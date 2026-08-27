@@ -2,10 +2,6 @@
 {{ if not (eq .Site.Params.footer.show_footer false) }}
 <footer>
 
-    {{/* On the landing page the social icons sit under the photo instead
-         (see layouts/shortcodes/social.html, used in content/_index.md),
-         so the footer shows them on every other page only. */}}
-    {{ if not .IsHome }}
     {{ if isset .Site.Params "social" }}
     {{ with .Site.Params.social }}
         <ul>
@@ -13,7 +9,6 @@
             <li><a href="{{ .url }}" title="{{ .name }}"><i class="{{ .class }}"></i></a></li>
         {{ end }}
         </ul>
-    {{ end }}
     {{ end }}
     {{ end }}
 

@@ -28,7 +28,7 @@ sitemap:
             <h2>Contact</h2>
             <p>
                 <a href="mailto:achatter@bu.edu">achatter@bu.edu</a><br>Department of Mathematics and Statistics,<br>Boston University,<br>665 Commonwealth Ave, Room 417,<br>Boston, MA 02215
-                {{< social >}}
+                <!-- {{< social >}} -->
             </p>
         </div>
         <div class="research-interest">
