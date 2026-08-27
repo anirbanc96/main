@@ -17,7 +17,6 @@ hide_title: true
   </div>
 </div>
 
-
 # Teaching Assistant
 ## University of Pennsylvania
 
