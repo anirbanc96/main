@@ -6,24 +6,16 @@ slug: research
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-# Preprints
+# Publications
 
-<span style="font-size: 0.9em; font-weight: bold;">Asymptotic Normality of Subgraph Counts in Sparse Inhomogeneous Random Graphs.&nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2512.12937)</span>     
-<span style="font-size: 0.8em;">[Sayak Chatterjee](https://scholar.google.com/citations?user=9ipxbQMAAAAJ&hl=en), Anirban Chatterjee, [Abhinav Chakraborty](https://abhinavc3.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
+<span style="font-size: 0.9em; font-weight: bold;">One-shot Conditional Sampling: MMD meets Nearest Neighbors.</span>     
+<span style="font-size: 0.8em;">Anirban Chatterjee, [Sayantan Choudhury](https://isayantan.github.io/), [Rohan Hore](https://rohanhore.github.io/). *To appear in Proceedings of The 43rd International Conference on Machine Learning (ICML), 2026.*</span>
 
-<span style="font-size: 0.9em; font-weight: bold;">*[_One-shot Conditional Sampling: MMD meets Nearest Neighbors._](https://arxiv.org/abs/2509.25507)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2509.25507)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Sayantan Choudhury](https://isayantan.github.io/), [Rohan Hore](https://rohanhore.github.io/).</span>
+<span style="font-size: 0.9em; font-weight: bold;">Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference.&nbsp; [<i class="fa-solid fa-book"></i>](https://doi.org/10.1214/26-AOS2644) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2404.13822)</span>     
+<span style="font-size: 0.8em;">Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). *The Annals of Statistics, 2026*.</span>
 
-<span style="font-size: 0.9em; font-weight: bold;">*[_A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)._](https://arxiv.org/abs/2407.16550)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2407.16550) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/ECMMD-CondTwoSamp)</span>  
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
-
-<span style="font-size: 0.9em; font-weight: bold;">*[_Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference._](https://arxiv.org/abs/2404.13822)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2404.13822)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
-
-# Journal Publications
-
-<span style="font-size: 0.9em; font-weight: bold;">*[_Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs._](https://doi.org/10.1214/25-AAP2220)* &nbsp; [<i class="fa-solid fa-book"></i>](https://doi.org/10.1214/25-AAP2220) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.01866)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/). *The Annals of Applied Probability*.</span>
+<span style="font-size: 0.9em; font-weight: bold;">Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs.&nbsp; [<i class="fa-solid fa-book"></i>](https://doi.org/10.1214/25-AAP2220) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.01866)</span>     
+<span style="font-size: 0.8em;">Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/). *The Annals of Applied Probability, 2025*.</span>
 
 <span style="font-size: 0.9em; font-weight: bold;">*[_Boosting the Power of Kernel Two-Sample Tests._](https://doi.org/10.1093/biomet/asae048)* &nbsp; [<i class="fa-solid fa-book"></i>](https://doi.org/10.1093/biomet/asae048) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2302.10687) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)</span>     
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). *Biometrika*.</span>
@@ -37,13 +29,21 @@ slug: research
 <span style="font-size: 0.9em; font-weight: bold;">*[_Spectral properties for the Laplacian of a generalized Wigner matrix._](https://doi.org/10.1142/S2010326322500265)* &nbsp; [<i class="fa-solid fa-book"></i>](https://doi.org/10.1142/S2010326322500265) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2011.07912)</span>     
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Rajat Subhra Hazra](https://sites.google.com/site/rshazra/). *Random Matrices: Theory and Applications*.</span>
 
-# Conference Publications
+# Publications
  
 <span style="font-size: 0.9em; font-weight: bold;">*[_A Martingale Kernel Two-Sample Test._](https://arxiv.org/abs/2510.11853)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2510.11853) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/mMMD)</span>     
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). *To appear in Proceedings of The 37th International Conference on Algorithmic Learning Theory (ALT) 2026*. <ins>Elegant Paper Badge</ins>.</span>
 
 <span style="font-size: 0.9em; font-weight: bold;">*[_PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model._](https://proceedings.mlr.press/v238/chakraborty24a.html)* &nbsp; [<i class="fa-solid fa-book"></i>](https://proceedings.mlr.press/v238/chakraborty24a.html) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.16596) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/PrIsing)</span>     
 <span style="font-size: 0.8em;">[Abhinav Chakraborty](https://abhinavc3.github.io/), Anirban Chatterjee, [Abhinandan Dalal](https://abhinandan-dalal.github.io/website/). *International Conference on Artificial Intelligence and Statistics (AISTATS) 2024*.</span>
+
+# Preprints
+
+<span style="font-size: 0.9em; font-weight: bold;">Asymptotic Normality of Subgraph Counts in Sparse Inhomogeneous Random Graphs.&nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2512.12937)</span>     
+<span style="font-size: 0.8em;">[Sayak Chatterjee](https://scholar.google.com/citations?user=9ipxbQMAAAAJ&hl=en), Anirban Chatterjee, [Abhinav Chakraborty](https://abhinavc3.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
+
+<span style="font-size: 0.9em; font-weight: bold;">*[_A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)._](https://arxiv.org/abs/2407.16550)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2407.16550) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/ECMMD-CondTwoSamp)</span>  
+<span style="font-size: 0.8em;">Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
  
 <!-- Add a style tag with CSS to control the layout -->
 <style>
