@@ -24,6 +24,13 @@ footer ul li a i {
     color: $text-color;
 }
 
+/* Size of the social icons (e-mail, GitHub, Scholar, LinkedIn) only */
+footer ul li a .fas,
+footer ul li a .fab,
+footer ul li a .ai {
+    font-size: 28px;
+}
+
 footer ul {
 	display: table;
 	margin: auto;
