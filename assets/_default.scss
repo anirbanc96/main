@@ -1,3 +1,10 @@
+// Page width and side margins, applied to every page via .inner in baseof.html.
+// Lower $content-width for wider margins on desktop; raise $content-side-padding
+// for more breathing room from the screen edge on phones.
+$content-width: 1200px;
+$content-side-padding: 16px;
+$content-width-mobile: 400px;
+
 
 * {
 	border: 0;
@@ -36,13 +43,13 @@ body {
 .inner {
     margin-left: auto;
     margin-right: auto;
-    max-width: 768px;
-    padding: 0 16px;
+    max-width: $content-width;
+    padding: 0 $content-side-padding;
     box-sizing: border-box;
 }
 
 @media only screen and (max-width: 600px) {
     .inner {
-        max-width: 400px;
+        max-width: $content-width-mobile;
     }
 }
