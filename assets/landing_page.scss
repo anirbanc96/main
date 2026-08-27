@@ -1,3 +1,7 @@
+// Space above the photo. Change this one number to nudge the image
+// down; the text column is unaffected.
+$image-top-offset: 20px;
+
 .landing-page-wrapper {
     display: flex;
     flex-direction: column;
@@ -26,7 +30,7 @@
 
 .landing-page-image img {
     display: block;
-    margin-top: 0;
+    margin-top: $image-top-offset;
     border-radius: 15px;
     width: 90%;
     height: auto;
