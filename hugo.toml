@@ -55,7 +55,7 @@ enableRobotsTXT = true
     [params.colors]
         theme_color = "#333333"
         background_color = "#f9fbfc"
-        text_color = "#333333"
+        text_color = "#000000"
         link_color = "#006aff"
 
     [params.social]
