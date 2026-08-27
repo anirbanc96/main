@@ -62,7 +62,7 @@ enableRobotsTXT = true
         [params.social.email]
             name = "E-Mail"
             class = "fas fa-envelope"
-            url = "mailto:anirbanc@uchicago.edu"
+            url = "mailto:achatter@bu.edu"
             weight = 1
         [params.social.github]
             name = "GitHub"
