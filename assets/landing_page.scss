@@ -27,6 +27,39 @@
     width: 100%;
 }
 
+/* Social icons shown under the photo (see layouts/shortcodes/social.html) */
+.social-icons {
+    width: 85%;          /* same width as the image above it */
+    margin: 12px 0 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+.social-icons li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0 12px;
+}
+
+.social-icons a {
+    color: $text-color;
+    text-decoration: none;
+}
+
+.social-icons .fas,
+.social-icons .fab,
+.social-icons .ai {
+    font-size: 28px;
+    transition: all .15s ease-in-out;
+}
+
+.social-icons .fas:hover,
+.social-icons .fab:hover,
+.social-icons .ai:hover {
+    color: $link-color;
+    transform: scale(1.5);
+}
+
 /* Responsive Design */
 @media only screen and (max-width: 600px) {
     .top-content {
@@ -41,5 +74,10 @@
 
     .landing-page-image img {
         width: 100%;
+    }
+
+    .social-icons {
+        width: 100%;
+        margin-right: auto;
     }
 }

@@ -2,15 +2,21 @@
 {{ if not (eq .Site.Params.footer.show_footer false) }}
 <footer>
 
+    {{/* Social icons now live under the photo on the landing page (see
+         layouts/shortcodes/social.html, used in content/_index.md).
+         Uncomment the block below to bring them back into the footer.
+
     {{ if isset .Site.Params "social" }}
     {{ with .Site.Params.social }}
         <ul>
         {{ range sort . "weight" }}
             <li><a href="{{ .url }}" title="{{ .name }}"><i class="{{ .class }}"></i></a></li>
         {{ end }}
-        </ul> 
+        </ul>
     {{ end }}
     {{ end }}
+
+    */}}
 
     {{ .Site.Copyright | safeHTML }}
 

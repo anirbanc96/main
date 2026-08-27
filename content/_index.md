@@ -15,6 +15,7 @@ sitemap:
         </div>
         <div class="landing-page-image">
             <img src="avatar.jpg" alt="Placeholder Image">
+            {{< social >}}
         </div>
     </div>
     <div class="bottom-content">
