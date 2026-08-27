@@ -11,7 +11,7 @@ slug: research
 <span style="font-size: 0.9em; font-weight: bold;">One-shot Conditional Sampling: MMD meets Nearest Neighbors. [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2509.25507) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/cgmmd)</span>     
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Sayantan Choudhury](https://isayantan.github.io/), [Rohan Hore](https://rohanhore.github.io/). *To appear in Proceedings of The 43rd International Conference on Machine Learning (ICML), 2026.*</span>
 
-<span style="font-size: 0.9em; font-weight: bold;">Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference.&nbsp; [<i class="fa-solid fa-book"></i>](https://doi.org/10.1214/26-AOS2644) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2404.13822)</span>     
+<span style="font-size: 0.9em; font-weight: bold;">Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference.&nbsp; [<i class="fa-solid fa-book-open-lines"></i>](https://doi.org/10.1214/26-AOS2644) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2404.13822)</span>     
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). *The Annals of Statistics, 2026*.</span>
 
 <span style="font-size: 0.9em; font-weight: bold;">A Martingale Kernel Two-Sample Test.&nbsp; [<i class="fa-solid fa-book"></i>](https://proceedings.mlr.press/v313/chatterjee26a.html) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2510.11853) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/mMMD)</span>     
@@ -38,7 +38,7 @@ slug: research
 
 # Preprints
 
-<span style="font-size: 0.9em; font-weight: bold;">Scaling Limits for Ising Models on Inhomogeneous Random Graphs and Applications. .&nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2608.12804)</span>     
+<span style="font-size: 0.9em; font-weight: bold;">Scaling Limits for Ising Models on Inhomogeneous Random Graphs and Applications.&nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2608.12804)</span>     
 <span style="font-size: 0.8em;">[Sanchayan Bhowal](https://www.sanchayanbhowal.su.domains/), Anirban Chatterjee, [Somabha Mukherjee](https://www.somabha.com/).</span>
 
 <span style="font-size: 0.9em; font-weight: bold;">Conditional Mean Independence and Global Sensitivity Analysis using Nearest Neighbor Graphs. &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2607.04692) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/ncmd)</span>  
