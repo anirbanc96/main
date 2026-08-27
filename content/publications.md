@@ -44,7 +44,7 @@ slug: research
 <span style="font-size: 0.9em; font-weight: bold;">Conditional Mean Independence and Global Sensitivity Analysis using Nearest Neighbor Graphs. &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2607.04692) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/ncmd)</span>  
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Ziang Niu](https://ziangniu6.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
 
-<span style="font-size: 0.9em; font-weight: bold;">Ising Models on Inhomogeneous Random Graphs: Inference, Local Asymptotic Minimaxity, and Limit of Experiments..&nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2606.07065)</span>     
+<span style="font-size: 0.9em; font-weight: bold;">Ising Models on Inhomogeneous Random Graphs: Inference, Local Asymptotic Minimaxity, and Limit of Experiments.&nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2606.07065)</span>     
 <span style="font-size: 0.8em;"> [Somabha Mukherjee](https://www.somabha.com/), [Sanchayan Bhowal](https://www.sanchayanbhowal.su.domains/), Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
 
 <span style="font-size: 0.9em; font-weight: bold;">Asymptotic Normality of Subgraph Counts in Sparse Inhomogeneous Random Graphs.&nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2512.12937)</span>     
