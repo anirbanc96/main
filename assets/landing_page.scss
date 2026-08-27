@@ -1,6 +1,9 @@
 // Space above the photo. Change this one number to nudge the image
 // down; the text column is unaffected.
-$image-top-offset: 30px;
+$image-top-offset: 20px;
+
+// Space below the photo, i.e. the gap between it and the social icons.
+$image-bottom-offset: 20px;
 
 // Gutter between the two side-by-side columns.
 $column-gap: 20px;
@@ -76,7 +79,7 @@ $landing-heading-size: 22px;
 /* Social icons shown under the photo (see layouts/shortcodes/social.html) */
 .social-icons {
     width: 90%;         /* same width as the image above it */
-    margin: 12px auto 0 0;
+    margin: $image-bottom-offset auto 0 0;
     padding: 0;
     text-align: center;
 }
