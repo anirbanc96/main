@@ -14,14 +14,20 @@ slug: research
 <span style="font-size: 0.9em; font-weight: bold;">Higher-Order Graphon Theory: Fluctuations, Degeneracies, and Inference.&nbsp; [<i class="fa-solid fa-book"></i>](https://doi.org/10.1214/26-AOS2644) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2404.13822)</span>     
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Soham Dan](https://sdan2.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). *The Annals of Statistics, 2026*.</span>
 
+<span style="font-size: 0.9em; font-weight: bold;">A Martingale Kernel Two-Sample Test.&nbsp; [<i class="fa-solid fa-book"></i>](https://proceedings.mlr.press/v313/chatterjee26a.html) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2510.11853) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/mMMD)</span>     
+<span style="font-size: 0.8em;">Anirban Chatterjee, [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). *In Proceedings of The 37th International Conference on Algorithmic Learning Theory (ALT), 2026*. <ins>Elegant Paper Badge</ins>.</span>
+
 <span style="font-size: 0.9em; font-weight: bold;">Fluctuation of the Largest Eigenvalue of a Kernel Matrix with application in Graphon-based Random Graphs.&nbsp; [<i class="fa-solid fa-book"></i>](https://doi.org/10.1214/25-AAP2220) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.01866)</span>     
 <span style="font-size: 0.8em;">Anirban Chatterjee, [Jiaoyang Huang](https://jiaoyang.github.io/). *The Annals of Applied Probability, 2025*.</span>
 
-<span style="font-size: 0.9em; font-weight: bold;">*[_Boosting the Power of Kernel Two-Sample Tests._](https://doi.org/10.1093/biomet/asae048)* &nbsp; [<i class="fa-solid fa-book"></i>](https://doi.org/10.1093/biomet/asae048) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2302.10687) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). *Biometrika*.</span>
+<span style="font-size: 0.9em; font-weight: bold;">Boosting the Power of Kernel Two-Sample Tests.&nbsp; [<i class="fa-solid fa-book"></i>](https://doi.org/10.1093/biomet/asae048) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2302.10687) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/MMMD-boost-kernel-two-sample)</span>     
+<span style="font-size: 0.8em;">Anirban Chatterjee, [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html). *Biometrika, 2025*.</span>
 
-<span style="font-size: 0.9em; font-weight: bold;">*[_Detecting Planted Partition in Sparse Multi-Layer Networks._](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402)* &nbsp; [<i class="fa-solid fa-book"></i>](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2209.07554) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/Sparse-MCSBM)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en). *Information and Inference: A Journal of the IMA*.</span>
+<span style="font-size: 0.9em; font-weight: bold;">Detecting Planted Partition in Sparse Multi-Layer Networks.&nbsp; [<i class="fa-solid fa-book"></i>](https://academic.oup.com/imaiai/article/13/3/iaae019/7726402) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2209.07554) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/Sparse-MCSBM)</span>     
+<span style="font-size: 0.8em;">Anirban Chatterjee, [Sagnik Nandy](https://sagnik-nandy.github.io/), [Ritwik Sadhu](https://scholar.google.co.in/citations?user=6TI7KmgAAAAJ&hl=en). *Information and Inference: A Journal of the IMA, 2024*.</span>
+
+<span style="font-size: 0.9em; font-weight: bold;">*[_PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model.&nbsp; [<i class="fa-solid fa-book"></i>](https://proceedings.mlr.press/v238/chakraborty24a.html) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.16596) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/PrIsing)</span>     
+<span style="font-size: 0.8em;">[Abhinav Chakraborty](https://abhinavc3.github.io/), Anirban Chatterjee, [Abhinandan Dalal](https://abhinandan-dalal.github.io/website/). *In Proceedings of The 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024*.</span>
 
 <span style="font-size: 0.9em; font-weight: bold;">*[_Fluctuations of Subgraph Counts in Graphon based Random Graphs._](https://doi.org/10.1017/S0963548322000335)* &nbsp; [<i class="fa-solid fa-book"></i>](https://doi.org/10.1017/S0963548322000335) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2104.07259)</span>     
 <span style="font-size: 0.8em;">[Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html), Anirban Chatterjee, [Svante Janson](https://www.katalog.uu.se/profile/?id=XX2949). *Combinatorics, Probability and Computing*.</span>
@@ -31,11 +37,9 @@ slug: research
 
 # Publications
  
-<span style="font-size: 0.9em; font-weight: bold;">*[_A Martingale Kernel Two-Sample Test._](https://arxiv.org/abs/2510.11853)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2510.11853) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/mMMD)</span>     
-<span style="font-size: 0.8em;">Anirban Chatterjee, [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). *To appear in Proceedings of The 37th International Conference on Algorithmic Learning Theory (ALT) 2026*. <ins>Elegant Paper Badge</ins>.</span>
 
-<span style="font-size: 0.9em; font-weight: bold;">*[_PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model._](https://proceedings.mlr.press/v238/chakraborty24a.html)* &nbsp; [<i class="fa-solid fa-book"></i>](https://proceedings.mlr.press/v238/chakraborty24a.html) &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2401.16596) &nbsp; [<i class="fab fa-github"></i>](https://github.com/anirbanc96/PrIsing)</span>     
-<span style="font-size: 0.8em;">[Abhinav Chakraborty](https://abhinavc3.github.io/), Anirban Chatterjee, [Abhinandan Dalal](https://abhinandan-dalal.github.io/website/). *International Conference on Artificial Intelligence and Statistics (AISTATS) 2024*.</span>
+
+
 
 # Preprints
 
