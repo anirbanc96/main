@@ -29,7 +29,7 @@ sitemap:
 <style>
     .top-content {
         display: flex; /* This turns the container into a flexbox */
-        align-items: center; /* This centers the items vertically */
+        align-items: flex-start; /* Line the text up with the top of the image */
         gap: 20px; /* This adds a bit of space between the text and the image */
     }
 </style>
