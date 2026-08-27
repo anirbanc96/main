@@ -1,0 +1,17 @@
+// Text size on the teaching page only (site default is 20px, set on body).
+// Headings are pinned in px in typography.scss, so they get their own knobs.
+$teaching-font-size: 17px;
+$teaching-heading-size: 26px;      // "Instructor" etc. (h1)
+$teaching-subheading-size: 22px;   // "University of Chicago" etc. (h2)
+
+.page-teaching {
+    font-size: $teaching-font-size;
+
+    h1 {
+        font-size: $teaching-heading-size;
+    }
+
+    h2 {
+        font-size: $teaching-subheading-size;
+    }
+}

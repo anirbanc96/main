@@ -1,7 +1,11 @@
 
 {{ define "main" }}
+{{/* The page-<name> class gives each content page a styling hook,
+     e.g. .page-teaching for content/teaching.md. */}}
+<div class="page{{ with .File }} page-{{ .BaseFileName }}{{ end }}">
     {{ if not .Params.hide_title }}
         <h1>{{ .Title | safeHTML }}</h1>
     {{ end }}
     {{ .Content | safeHTML }}
+</div>
 {{ end }}

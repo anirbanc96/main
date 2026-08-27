@@ -59,3 +59,7 @@ main {
 }
 
 main > :first-child { margin-top: 0 !important; }
+
+/* single.html wraps content in .page, so reach through it to the real
+   first element and keep it flush with the top of <main>. */
+.page > :first-child { margin-top: 0 !important; }
