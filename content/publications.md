@@ -8,7 +8,7 @@ slug: research
 
 # Preprints
 
-<span style="font-size: 0.9em; font-weight: bold;">*[_Asymptotic Normality of Subgraph Counts in Sparse Inhomogeneous Random Graphs._](https://arxiv.org/abs/2512.12937)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2512.12937)</span>     
+<span style="font-size: 0.9em; font-weight: bold;">Asymptotic Normality of Subgraph Counts in Sparse Inhomogeneous Random Graphs.&nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2512.12937)</span>     
 <span style="font-size: 0.8em;">[Sayak Chatterjee](https://scholar.google.com/citations?user=9ipxbQMAAAAJ&hl=en), Anirban Chatterjee, [Abhinav Chakraborty](https://abhinavc3.github.io/), [Bhaswar B. Bhattacharya](http://www-stat.wharton.upenn.edu/~bhaswar/index.html).</span>
 
 <span style="font-size: 0.9em; font-weight: bold;">*[_One-shot Conditional Sampling: MMD meets Nearest Neighbors._](https://arxiv.org/abs/2509.25507)* &nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2509.25507)</span>     
