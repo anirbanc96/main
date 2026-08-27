@@ -28,13 +28,19 @@ sitemap:
         <div class="contact-details">
             <h2>Contact</h2>
             <p>
-                <a href="mailto:achatter@bu.edu">achatter@bu.edu</a><br>665 Commonwealth Ave, Room 417<br>Boston, MA 02215
+                <a href="mailto:achatter@bu.edu">achatter@bu.edu</a><br>665 Commonwealth Ave, Room 417,<br>Boston, MA 02215
             </p>
         </div>
         <div class="research-interest">
             <h2>Research Interest</h2>
+            <ul>
+                <li>Kernel methods for nonparametric testing</li>
+                <li>Statistical network analysis and random graphs</li>
+                <li>Inference in Graphical Models</li>
+                <li>Uncertainity Quantification and Calibration</li>
+            </ul>
             <p>
-                The main themes of my research include statistical network analysis, kernel methods for nonparametric testing, statistical random matrix theory, and differential privacy in graphical models. My current publications and preprints can be found <a href="https://anirbanc96.github.io/main/research/" target="_blank">here.</a>
+                My current publications and preprints can be found <a href="https://anirbanc96.github.io/main/research/" target="_blank">here.</a>
             </p>
         </div>
     </div>
