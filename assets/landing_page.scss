@@ -5,9 +5,19 @@ $image-top-offset: 30px;
 // Gutter between the two side-by-side columns.
 $column-gap: 20px;
 
+// Text size on the landing page only (site default is 20px, set on body).
+// Headings are pinned in px in typography.scss, so they get their own knob.
+$landing-font-size: 16px;
+$landing-heading-size: 22px;
+
 .landing-page-wrapper {
     display: flex;
     flex-direction: column;
+    font-size: $landing-font-size;
+}
+
+.landing-page-wrapper h2 {
+    font-size: $landing-heading-size;
 }
 
 .top-content {
