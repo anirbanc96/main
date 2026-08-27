@@ -14,7 +14,7 @@
 
 .landing-page-image {
     flex: 1;
-    text-align: right;
+    text-align: left;
 }
 
 .landing-page-image img {
@@ -30,7 +30,7 @@
 /* Social icons shown under the photo (see layouts/shortcodes/social.html) */
 .social-icons {
     width: 90%;         /* same width as the image above it */
-    margin: 12px 0 0 auto;
+    margin: 12px auto 0 0;
     padding: 0;
     text-align: center;
 }
