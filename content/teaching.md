@@ -9,11 +9,11 @@ hide_title: true
 <div style="display: flex; flex-direction: column; gap: 4px;">
   <div style="display: flex;">
     <span style="min-width: 120px;">Spring 2026</span>
-    <strong>STAT 20000</strong></a>: Elementary Statistics</span>
+    <strong>STAT 20000</strong></a>: Elementary Statistics (for undergraduate students)</span>
   </div>
   <div style="display: flex;">
     <span style="min-width: 120px;">Winter 2026</span>
-    <strong>STAT 37779</strong></a>: Kernel Methods for Statistics and Machine Learning</span>
+    <strong>STAT 37779</strong></a>: Kernel Methods for Statistics and Machine Learning (for graduate students)</span>
   </div>
 </div>
 
@@ -24,15 +24,15 @@ hide_title: true
 <div style="display: flex; flex-direction: column; gap: 4px;">
   <div style="display: flex;">
     <span style="min-width: 120px;">Fall 2023</span>
-    <span><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 432</strong></a>: Mathematical Statistics</span>
+    <span><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 4320</strong></a>: Mathematical Statistics (for undergraduate students)</span>
   </div>
   <div style="display: flex;">
     <span style="min-width: 120px;">Fall 2022</span>
-    <span><a href="https://katsevich-teaching.github.io/stat-9610-fall-2022/"><strong>STAT 961</strong></a>: Statistical Methodology</span>
+    <span><a href="https://katsevich-teaching.github.io/stat-9610-fall-2022/"><strong>STAT 9610</strong></a>: Statistical Methodology (for graduate students)</span>
   </div>
   <div style="display: flex;">
     <span style="min-width: 120px;">Spring 2022</span>
-    <span><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 432</strong></a>: Mathematical Statistics</span>
+    <span><a href="https://apps.wharton.upenn.edu/syllabi/2022A/STAT432001/"><strong>STAT 4320</strong></a>: Mathematical Statistics (for undergraduate students)</span>
   </div>
 </div>
 
