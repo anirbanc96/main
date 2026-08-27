@@ -25,10 +25,24 @@ sitemap:
         </div>
     </div>
     <div class="bottom-content">
-        <h2>Research Interest</h2>
-        <p>
-            The main themes of my research include statistical network analysis, kernel methods for nonparametric testing, statistical random matrix theory, and differential privacy in graphical models. My current publications and preprints can be found <a href="https://anirbanc96.github.io/main/research/" target="_blank">here.</a>
-        </p>
+        <div class="contact-details">
+            <h2>Contact</h2>
+            <p>
+                <a href="mailto:achatter@bu.edu">achatter@bu.edu</a>
+            </p>
+            <p>
+                Department of Mathematics and Statistics<br>
+                Boston University
+                <!-- Add your office / street address here, e.g.:
+                <br>665 Commonwealth Ave, Room ###<br>Boston, MA 02215 -->
+            </p>
+        </div>
+        <div class="research-interest">
+            <h2>Research Interest</h2>
+            <p>
+                The main themes of my research include statistical network analysis, kernel methods for nonparametric testing, statistical random matrix theory, and differential privacy in graphical models. My current publications and preprints can be found <a href="https://anirbanc96.github.io/main/research/" target="_blank">here.</a>
+            </p>
+        </div>
     </div>
 </div>
 

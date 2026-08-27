@@ -2,6 +2,9 @@
 // down; the text column is unaffected.
 $image-top-offset: 20px;
 
+// Gutter between the two side-by-side columns.
+$column-gap: 20px;
+
 .landing-page-wrapper {
     display: flex;
     flex-direction: column;
@@ -38,6 +41,26 @@ $image-top-offset: 20px;
 
 .bottom-content {
     width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: $column-gap;
+}
+
+/* Narrow left column, mirroring the photo above it */
+.contact-details {
+    flex: 1;
+}
+
+/* Wide right column, mirroring the bio text above it */
+.research-interest {
+    flex: 2;
+}
+
+/* Drop the headings' top margin so the two <h2>s sit on the same line */
+.contact-details > *:first-child,
+.research-interest > *:first-child {
+    margin-top: 0;
 }
 
 /* Social icons shown under the photo (see layouts/shortcodes/social.html) */
@@ -79,8 +102,14 @@ $image-top-offset: 20px;
         flex-direction: column;
     }
 
+    .bottom-content {
+        flex-direction: column;
+    }
+
     .landing-page-content,
-    .landing-page-image {
+    .landing-page-image,
+    .contact-details,
+    .research-interest {
         margin-right: 0;
         width: 100%;
     }
