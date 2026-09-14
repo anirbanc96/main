@@ -38,6 +38,9 @@ slug: research
 
 # Preprints
 
+<span style="font-size: 0.9em; font-weight: bold;">A Ranking Approach for Measuring Calibration.&nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2609.13100)</span>     
+<span style="font-size: 0.8em;"> Anirban Chatterjee, [Rina Foygel Barber](https://rinafb.github.io/).</span>
+
 <span style="font-size: 0.9em; font-weight: bold;">Scaling Limits for Ising Models on Inhomogeneous Random Graphs and Applications.&nbsp; [<i class="ai ai-arxiv ai"></i>](https://arxiv.org/abs/2608.12804)</span>     
 <span style="font-size: 0.8em;">[Sanchayan Bhowal](https://www.sanchayanbhowal.su.domains/), Anirban Chatterjee, [Somabha Mukherjee](https://www.somabha.com/).</span>
 
