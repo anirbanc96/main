@@ -4,6 +4,14 @@ hide_title: true
 ---
 
 # Instructor
+## Boston University
+<div style="display: flex; flex-direction: column; gap: 4px;">
+  <div style="display: flex;">
+    <span style="min-width: 120px;">Fall 2026</span>
+    <strong>CAS MA 781</strong></a>: Estimation Theory (for graduate students)</span>
+  </div>
+</div>
+
 ## University of Chicago
 
 <div style="display: flex; flex-direction: column; gap: 4px;">
