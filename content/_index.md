@@ -34,10 +34,10 @@ sitemap:
         <div class="research-interest">
             <h2>Research Interest</h2>
             <ul>
-                <li>Kernel methods for nonparametric testing.</li>
+                <li>Kernel methods for nonparametric inference.</li>
+                <li>Uncertainity Quantification and Calibration.</li>
                 <li>Statistical network analysis and random graphs.</li>
                 <li>Inference in Graphical Models.</li>
-                <li>Uncertainity Quantification and Calibration.</li>
             </ul>
             <p>
                 My current publications and preprints can be found <a href="https://anirbanc96.github.io/main/research/" target="_blank">here.</a>
